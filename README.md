@@ -26,8 +26,8 @@ This project demonstrates cleaning and analyzing messy sales data using Excel an
 
 👉 [📊 View Dashboard preview](https://github.com/VaminetAgunwa/Sales-data-cleaning-project/blob/main/dashboard_preview.png)
 👉 [🛠 SQL Script](https://github.com/VaminetAgunwa/Sales-data-cleaning-project/blob/main/Record%20Sales%20SQL%20query.sql)
-👉 [📂 Cleaned Data excel](https://github.com/VaminetAgunwa/Sales-data-cleaning-project/blob/main/Record%20Sales%20Excel%20cleaned%20data1%20excel.csv)
-👉 [📂 Cleaned Data sql](https://github.com/VaminetAgunwa/Sales-data-cleaning-project/blob/main/Record%20Sales%20SQL%20cleaned%20data%20(1).csv)
+👉 [📂 Cleaned Data excel](https://github.com/VaminetAgunwa/Sales-data-cleaning-project/blob/main/Record%20Sales%20Excel%20cleaned%20data.csv)
+👉 [📂 Cleaned Data sql](https://github.com/VaminetAgunwa/Sales-data-cleaning-project/blob/main/Record%20Sales%20SQL%20cleaned%20data)
 
 
 ## 📊 Excel Dashboard
