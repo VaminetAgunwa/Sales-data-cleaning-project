@@ -22,11 +22,11 @@ This project demonstrates cleaning and analyzing messy sales data using Excel an
 - Product performance
 - Sales trend over time
 
-## 📁 Project Files
+- ## 📁 Project Files
 
-👉 [📊 View Dashboard](📊 [View Excel Dashboard](https://github.com/your-username/sales-data-cleaning-project/blob/main/dashboard/sales_dashboard.xlsx))
-👉 [🛠 SQL Script](🛠️ [View SQL Cleaning Queries](https://github.com/your-username/sales-data-cleaning-project/blob/main/sql/data_cleaning.sql))
-👉 [📂 Cleaned Data](📂 [View Cleaned Dataset](https://github.com/your-username/sales-data-cleaning-project/blob/main/data/cleaned_sales_data.xlsx))
+👉 [📊 View Dashboard preview](https://github.com/VaminetAgunwa/Sales-data-cleaning-project/blob/main/dashboard_preview.png)
+👉 [🛠 SQL Script](https://github.com/VaminetAgunwa/Sales-data-cleaning-project/blob/main/Record%20Sales%20SQL.sql)
+👉 [📂 Cleaned Data](https://github.com/VaminetAgunwa/Sales-data-cleaning-project/blob/main/Cleaned%20record%20sales%20table%201.csv)
 
 ## 📊 Excel Dashboard
 
