@@ -22,6 +22,14 @@ This project demonstrates cleaning and analyzing messy sales data using Excel an
 - Product performance
 - Sales trend over time
 
+## 📁 Project Files
+
+- 📊 [Excel Dashboard](link)
+- 🛠️ [SQL Cleaning Script](link)
+- 📂 [Cleaned Dataset](link)
+- 📉 [Raw Dataset](link)
+- 🖼️ [Dashboard Preview](link)
+
 ## 📊 Excel Dashboard
 
 The interactive dashboard was built using Excel Pivot Tables and Charts to analyze:
