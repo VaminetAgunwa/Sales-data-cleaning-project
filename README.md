@@ -24,11 +24,9 @@ This project demonstrates cleaning and analyzing messy sales data using Excel an
 
 ## 📁 Project Files
 
-- 📊 [Excel Dashboard](link)
-- 🛠️ [SQL Cleaning Script](link)
-- 📂 [Cleaned Dataset](link)
-- 📉 [Raw Dataset](link)
-- 🖼️ [Dashboard Preview](link)
+👉 [📊 View Dashboard](📊 [View Excel Dashboard](https://github.com/your-username/sales-data-cleaning-project/blob/main/dashboard/sales_dashboard.xlsx))
+👉 [🛠 SQL Script](🛠️ [View SQL Cleaning Queries](https://github.com/your-username/sales-data-cleaning-project/blob/main/sql/data_cleaning.sql))
+👉 [📂 Cleaned Data](📂 [View Cleaned Dataset](https://github.com/your-username/sales-data-cleaning-project/blob/main/data/cleaned_sales_data.xlsx))
 
 ## 📊 Excel Dashboard
 
