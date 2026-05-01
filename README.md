@@ -21,3 +21,15 @@ This project demonstrates cleaning and analyzing messy sales data using Excel an
 - Top regions by sales
 - Product performance
 - Sales trend over time
+
+## 📊 Excel Dashboard
+
+The interactive dashboard was built using Excel Pivot Tables and Charts to analyze:
+- Regional sales performance
+- Product trends
+- Payment methods
+- Sales over time
+
+- ## 📸 Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
